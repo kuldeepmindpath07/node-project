@@ -16,5 +16,5 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    nodejs index.js
+    node index.js
   displayName: 'run index.js file'
